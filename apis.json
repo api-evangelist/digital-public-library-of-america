@@ -1,0 +1,94 @@
+{
+    "name": "Digital Public Library of America",
+    "description": "The Digital Public Library of America (DPLA) is an all-digital library that aggregates metadata \u2014 or information describing an item \u2014 and thumbnails for millions of photographs, manuscripts, books, sounds, moving images, and more from libraries, archiv...",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1697-digital-public-library-of-america.jpg",
+    "tags": [
+        "api provider",
+        "have api",
+        "libraries",
+        "target"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/digital-public-library-of-america\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Digital Public Library of America",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1697-digital-public-library-of-america.jpg",
+            "humanURL": "http:\/\/dp.la\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/digital-public-library-of-america-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/dp.la\/info\/feed"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/digital-public-library-of-america"
+        },
+        {
+            "type": "Email",
+            "url": "info@dp.la"
+        },
+        {
+            "type": "Email",
+            "url": "education@dp.la"
+        },
+        {
+            "type": "Email",
+            "url": "andy@dp.la"
+        },
+        {
+            "type": "Email",
+            "url": "arielle@dp.la"
+        },
+        {
+            "type": "Email",
+            "url": "audrey@dp.la"
+        },
+        {
+            "type": "Email",
+            "url": "emily@dp.la"
+        },
+        {
+            "type": "Email",
+            "url": "franky@dp.la"
+        },
+        {
+            "type": "Email",
+            "url": "gretchen@dp.la"
+        },
+        {
+            "type": "Email",
+            "url": "bracken@dp.la"
+        },
+        {
+            "type": "Email",
+            "url": "kelcy@dp.la"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/dpla"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/dpla"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/dp.la\/"
+        }
+    ]
+}
